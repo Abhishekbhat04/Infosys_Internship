@@ -1,3 +1,4 @@
+HEAD
 # 🌍 ClimateScope – Global Weather Data Analysis
 
 ClimateScope is a data analysis project that explores and analyzes global weather data using Python, Pandas, and Streamlit.
@@ -25,10 +26,13 @@ This project performs:
 
 ## ✅ Milestone 1 Completed
 
+## Milestone 1 Completed
+ 7e7a084f (Milestone 1 documentation update)
 - Data loading using pandas
 - Data exploration
 - Date conversion
 - Monthly aggregation
+ HEAD
 
 ---
 
@@ -52,3 +56,5 @@ This project performs:
 - Country-wise weather comparison
 - Interactive charts using Plotly
 - Final integrated dashboard for weather insights
+
+ 
