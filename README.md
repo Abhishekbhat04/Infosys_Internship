@@ -17,5 +17,4 @@ This project performs:
 
 ---
 
-## 📂 Project Structure
 
