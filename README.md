@@ -23,6 +23,7 @@ This project performs:
 
 ---
 
+
 ## ✅ Milestone 1 Completed
 
 - Data loading using pandas  
@@ -41,7 +42,7 @@ This project performs:
 - Time-series visualization  
 - Choropleth map  
 
----
+
 
 ## ✅ Milestone 3 Completed
 
@@ -51,4 +52,6 @@ This project performs:
 - Heatwave and extreme weather summary  
 - Country-wise weather comparison  
 - Interactive charts using Plotly  
+
+
 
