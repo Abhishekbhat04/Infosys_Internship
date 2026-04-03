@@ -3,7 +3,7 @@ import seaborn as sns
 
 sns.set_style("whitegrid")
 
-
+#temperature
 def plot_temperature_trend(monthly_data):
     plt.figure()
     monthly_data.plot()

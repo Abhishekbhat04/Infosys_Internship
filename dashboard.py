@@ -323,5 +323,5 @@ fig_weather = px.pie(
     title="Weather Condition Distribution",
     template="plotly_white"
 )
-
+# new change
 st.plotly_chart(fig_weather, use_container_width=True)
